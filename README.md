@@ -6,7 +6,7 @@ text-based adventure games such as Zork.
 
 Malyon plays version 3 (`.z3`), version 5 (`.z5`), and version 8 (`.z8`) z code files, as well as files in the zblorb format.
 
-Download games from [the Interactive Fiction Archive](http://www.ifarchive.org/indexes/if-archiveXgamesXzcode.html), from [Baf's Guide to the Interactive Fiction Archive](http://www.wurb.com/if/platform/1), or make your own with InformMode
+Download games from [the Interactive Fiction Archive](http://www.ifarchive.org/indexes/if-archiveXgamesXzcode.html), from [The Interactive Fiction Database](http://ifdb.tads.org/), or make your own with InformMode
 
 ## Use ##
 
