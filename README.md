@@ -2,7 +2,7 @@
 Malyon for Emacs - Malyon is a Z-machine interpreter for playing
 text-based adventure games such as Zork.
 
-[Malyon](http://www.ifarchive.org/if-archive/infocom/interpreters/emacs/)  is a [Z-machine interpreter](http://directory.google.com/Top/Games/Video_Games/Genres/Adventure/Text_Adventures/Interpreters/Z-Machine/) for playing text-based adventure games such as [Zork](https://en.wikipedia.org/wiki/Zork).
+[Malyon](http://www.ifarchive.org/if-archive/infocom/interpreters/emacs/)  is a [Z-machine interpreter](http://ifwiki.org/index.php/Interpreter) for playing text-based adventure games such as [Zork](https://en.wikipedia.org/wiki/Zork).
 
 Malyon plays version 3 (`.z3`), version 5 (`.z5`), and version 8 (`.z8`) z code files, as well as files in the zblorb format.
 
