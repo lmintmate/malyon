@@ -270,14 +270,14 @@ Z-code versions 3, 5, and 8 are supported."
       (malyon-hide-internal-errors "loading of story file failed."
         (malyon-load-story-file file-name)))
      (t
-      (error "%s is not a version 3, 5, or 8 story file." file-name)))
+      (error "%s is not a version 3, 5, 8 or zblorb story file." file-name)))
     (setq malyon-story-version (aref malyon-story-file 0))
     (cond ((memq malyon-story-version malyon-supported-versions)
            (malyon-hide-internal-errors "initialization of interpreter failed."
              (malyon-initialize))
            (malyon-interpreter))
           (t
-           (message "%s is not a version 3, 5, or 8 story file." file-name)
+           (message "%s is not a version 3, 5, 8 or zblorb story file." file-name)
            (malyon-cleanup)))))
 
 (defun malyon-restore ()
